@@ -6,10 +6,10 @@ Computer Networks Assignment 1
 
 ### Student Details
 - Name: Rohit P.
-- Register Number: YOUR_REGISTER_NUMBER
-- Operating System: Windows
-- Python Version: YOUR_PYTHON_VERSION
-- Cisco Packet Tracer Version: YOUR_PACKET_TRACER_VERSION
+- Register Number: 1925260050
+- Operating System: Windows 11 26H2
+- Python Version: Python 3.13.2
+- Cisco Packet Tracer Version: Cisco Packet Tracer 8.2.2
 
 ### Project Description
 This project focuses on designing and analysing a reliable computer network for a smart manufacturing plant.
